@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "description": "Parody History Deleter",
+    "name": "History Deleter",
+    "browser_action": {
+      "default_title": "Death Note App",
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "browsingData"
+    ]
+    
+  }
